@@ -1,4 +1,4 @@
-\# Simulated Fruit Fly Brain Plays Video Games
+# Simulated Fruit Fly Brain Plays Video Games
 
 
 
@@ -6,7 +6,7 @@ PC Gamer: \[After Google mapped an adult male fruit fly's brain, software engine
 
 
 
-\## Why I Found This Interesting
+## Why I Found This Interesting
 
 
 
